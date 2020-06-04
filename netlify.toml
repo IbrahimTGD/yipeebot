@@ -1,0 +1,6 @@
+[build]
+
+[[redirects]]
+    from = "/*"
+  to = "/src/"
+  status = 404
